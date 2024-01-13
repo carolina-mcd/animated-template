@@ -1,6 +1,6 @@
 # Animated Template
 
-Aplicação web animada, foram adicionados efeitos de animação integrda simples neste site.
+Aplicação web animada, foram adicionados efeitos de animação integrada simples neste site.
 
 <img width="1390" alt="Captura de Tela 2024-01-12 às 17 21 23" src="https://github.com/carolina-mcd/animated-template/assets/82965208/ae71f80a-2d2f-4f0c-b5eb-a67a1a3720e7">
 
